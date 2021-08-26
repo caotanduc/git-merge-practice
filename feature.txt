@@ -1,2 +1,2 @@
-this is a feature version 1
+this is a feature version feature1
 this is a feature version update of 2
